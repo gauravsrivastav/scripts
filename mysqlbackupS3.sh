@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #I use this to create a little bash script that will backup the database at regular intervals, and I’ll even chuck in deleting backups older than 15 days and move the dump_file in S3_bucket.
-
+#added lin 2 to test
 #create a few variables to contain the Database_credentials.
 #addedd line to test
 # Database credentials
